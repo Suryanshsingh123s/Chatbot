@@ -14,12 +14,12 @@ Builds the app for production to the `build` folder.\
 "react-router-dom"
 "react-scripts"
 the command  to do so is : 'npm i <sript name>'
-### if any libraries/Modules/Scripts are missing kindly check out the package.json
+if any libraries/Modules/Scripts are missing kindly check out the package.json
 
-### To Add option in Chatbot Message changes to be done in config.js and Options.jsx file
+ To Add option in Chatbot Message changes to be done in config.js and Options.jsx file
 
-### To to read the user input in Chatbot Message changes to be done in MessageParser.js
+To to read the user input in Chatbot Message changes to be done in MessageParser.js
 
-### To show response in Chatbot Message changes to be done in ActionProvider.js
+To show response in Chatbot Message changes to be done in ActionProvider.js
 
 To change the Icon / logo changes to be done in BotAvatar.jsx
